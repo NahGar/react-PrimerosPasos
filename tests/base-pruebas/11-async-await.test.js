@@ -8,7 +8,5 @@ describe('Pruebas en 11-async-await.js', () => {
         console.log(resp);
 
         expect( resp ).not.toBe( 'No se encontro la imagen' );
-
     });
-
 });
