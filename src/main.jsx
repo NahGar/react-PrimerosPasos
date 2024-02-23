@@ -18,6 +18,6 @@ ReactDOM.createRoot( document.getElementById('root') ).render(
 ReactDOM.createRoot( document.getElementById('root') ).render(
     <React.StrictMode>
         { /* <CounterApp value={1}/> */ }
-        <FirstApp title='Prueba' />
+        <FirstApp title='Titulando'/>
     </React.StrictMode>
 );
