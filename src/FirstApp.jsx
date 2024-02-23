@@ -31,8 +31,8 @@ FirstApp.propTypes = {
 }
 
 FirstApp.defaultProps = {
-  title: 'No hay título',
-  //subTitle: 'No hay subtítulo',
+  //title: 'No hay título',
+  subTitle: 'No hay subtítulo',
   nombre: 'Nahuel',
   numero: 123
 }
